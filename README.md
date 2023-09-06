@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatsri11" alt="akshatsri11" /></a> </p>
 
-- 🔭 I’m currently working on **PokeGame**
+- 🔭 I’m currently working on **SIH-2023**
 
-- 🌱 I’m currently learning **Firebase and different state managements**
+- 🌱 I’m currently learning **Design Architectures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshatsri11](https://github.com/akshatsri11)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RoXo8EvDGo9c_rhaoN3eNqMce8tfoaBX/view?usp=share_link](https://drive.google.com/file/d/1RoXo8EvDGo9c_rhaoN3eNqMce8tfoaBX/view?usp=share_link)
 
-- ⚡ Fun fact **I think I take the more seriously than required when I am involved in something.**
+- ⚡ Fun fact **I think I am more serious than required when I am involved in something.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
